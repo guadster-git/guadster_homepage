@@ -1,6 +1,6 @@
 	/*
   	Flaticon icon font: Flaticon
-  	Creation date: 12/08/2018 13:24
+  	Creation date: 04/01/2019 13:45
   	*/
 
 
@@ -36,10 +36,8 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.flaticon-car:before { content: "\f100"; }
-.flaticon-resort:before { content: "\f101"; }
-.flaticon-yatch:before { content: "\f102"; }
-.flaticon-map-of-roads:before { content: "\f103"; }
-.flaticon-compass:before { content: "\f104"; }
-.flaticon-around:before { content: "\f105"; }
-.flaticon-sailboat:before { content: "\f106"; }
+.flaticon-vector:before { content: "\f100"; }
+.flaticon-web-programming:before { content: "\f101"; }
+.flaticon-layer:before { content: "\f102"; }
+.flaticon-coding:before { content: "\f103"; }
+.flaticon-zoom:before { content: "\f104"; }
